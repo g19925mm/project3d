@@ -350,6 +350,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/CountDown.cs"
 "Assets/WebCam.cs"
+"Assets/WebCamScreen.cs"
 -langversion:9.0
 
 /deterministic
