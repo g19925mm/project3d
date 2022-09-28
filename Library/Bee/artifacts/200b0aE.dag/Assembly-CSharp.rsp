@@ -352,6 +352,7 @@
 "Assets/WebCam.cs"
 "Assets/WebCamScreen.cs"
 "Assets/WebCamScreen2.cs"
+"Assets/WebCamScreen3.cs"
 -langversion:9.0
 
 /deterministic
