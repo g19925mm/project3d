@@ -351,6 +351,7 @@
 "Assets/CountDown.cs"
 "Assets/WebCam.cs"
 "Assets/WebCamScreen.cs"
+"Assets/WebCamScreen2.cs"
 -langversion:9.0
 
 /deterministic
