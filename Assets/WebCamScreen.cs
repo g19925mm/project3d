@@ -27,7 +27,7 @@ public class WebCamScreen : MonoBehaviour
 
     void ScreenShot()
     {
-        CaptureScreenShot("ScreenShot.png");
+        CaptureScreenShot("ScreenShot1.png");
     }
 
     private void CaptureScreenShot(string filePath)
