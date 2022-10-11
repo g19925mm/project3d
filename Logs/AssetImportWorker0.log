@@ -501,14 +501,69 @@ Received Import Request.
   artifactKey: Guid(c5a01a4aa8e53410b96b514ef7787476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Screen3.unity using Guid(c5a01a4aa8e53410b96b514ef7787476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43175f457f697234a0df4d1755b911de') in 0.008704 seconds 
 ========================================================================
+<<<<<<< Updated upstream
 Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.006446 seconds.
+=======
+Received Import Request.
+  Time since last request: 0.731191 seconds.
+  path: Assets/Screen2.unity
+  artifactKey: Guid(7cb04833d282a4365a7b38c34c5b89d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Screen2.unity using Guid(7cb04833d282a4365a7b38c34c5b89d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c40e02294846be6715a0bb5c7ccbf298') in 0.006571 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.339443 seconds.
+  path: Packages/com.unity.testtools.codecoverage/package.json
+  artifactKey: Guid(ba7d60725b0ec604698819352642be89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.testtools.codecoverage/package.json using Guid(ba7d60725b0ec604698819352642be89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2dd2fcfb070eff30dd06220f902a2a') in 1.677825 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 320.877768 seconds.
+  path: Assets/Materials/IMG_0988.mat
+  artifactKey: Guid(81fbada6baa7348949bc8a52d43eb8eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/IMG_0988.mat using Guid(81fbada6baa7348949bc8a52d43eb8eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65c4b8673b76b125fd0117dd8dff2a28') in 2.310924 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.668235 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d3d292d1ebf159b2a85e393b14e2fc8') in 0.004394 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 273.446524 seconds.
+  path: Assets/S__61849633.jpg
+  artifactKey: Guid(3de0d7d905ac04dc489523face0ac8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/S__61849633.jpg using Guid(3de0d7d905ac04dc489523face0ac8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d1b2f5502127da0a9f30b52eb04e697') in 1.046528 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.923851 seconds.
+  path: Assets/S__61849633.jpg
+  artifactKey: Guid(3de0d7d905ac04dc489523face0ac8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/S__61849633.jpg using Guid(3de0d7d905ac04dc489523face0ac8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fd30ce0785913dcbc0167e2d44ac393') in 0.306877 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 40.523641 seconds.
+  path: Assets/Screen1.unity
+  artifactKey: Guid(aa62af5966edb4978947dfdb2dd5e4fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Screen1.unity using Guid(aa62af5966edb4978947dfdb2dd5e4fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf334ce24f53aff01267905b0267ef93') in 0.002943 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 91.744986 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcf5de9c801af47500f47a135811d7ee') in 0.005769 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005612 seconds.
+>>>>>>> Stashed changes
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /Users/matsumotominako/Documents/GitHub/project3d/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image /Users/matsumotominako/Documents/GitHub/project3d/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
+<<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 1.13 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -546,6 +601,45 @@ Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 20 unused Assets / (71.4 KB). Loaded Objects now: 3855.
 Memory consumption went from 244.3 MB to 244.2 MB.
 Total: 6.314047 ms (FindLiveObjects: 0.587381 ms CreateObjectMapping: 0.466482 ms MarkObjects: 5.107109 ms  DeleteObjects: 0.151629 ms)
+=======
+Refreshing native plugins compatible for Editor in 3.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.432 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3435ms)
+		BeginReloadAssembly (423ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (13ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (205ms)
+		EndReloadAssembly (2626ms)
+			LoadAssemblies (257ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1047ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (144ms)
+			SetupLoadedEditorAssemblies (1036ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (44ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (164ms)
+				ProcessInitializeOnLoadAttributes (728ms)
+				ProcessInitializeOnLoadMethodAttributes (91ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (25ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 20 unused Assets / (71.3 KB). Loaded Objects now: 3887.
+Memory consumption went from 253.1 MB to 253.0 MB.
+Total: 6.514111 ms (FindLiveObjects: 0.703967 ms CreateObjectMapping: 0.324756 ms MarkObjects: 5.349295 ms  DeleteObjects: 0.134714 ms)
+>>>>>>> Stashed changes
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
