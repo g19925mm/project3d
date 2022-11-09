@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Screen3.unity
     guid: c5a01a4aa8e53410b96b514ef7787476
+  - enabled: 1
+    path: Assets/Screen4.unity
+    guid: 6011a53be490146c1886c3ecbc926de3
   m_configObjects: {}
