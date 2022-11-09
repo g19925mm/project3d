@@ -15,6 +15,10 @@ public class WebCamScreen : MonoBehaviour
     RawImage rawImage;
     WebCamTexture webCamTexture;
 
+    public AudioClip sound1;
+    public AudioClip sound2;
+    AudioSource audioSource;
+
     // スタート時に呼ばれる
     void Start ()
     {
@@ -25,6 +29,9 @@ public class WebCamScreen : MonoBehaviour
         this.webCamTexture.Play();
         Invoke(nameof(ScreenShot), 10f);
         step_time = 0.0f;
+        audioSource = GetComponent<AudioSource>();
+        Invoke(nameof(Camera), 10f);
+        Invoke(nameof(Camera2), 6f);
     }
 
     void ScreenShot()
@@ -36,6 +43,14 @@ public class WebCamScreen : MonoBehaviour
     {
         ScreenCapture.CaptureScreenshot(filePath);
     }
+    void Camera(){
+      audioSource.PlayOneShot(sound1);
+    }
+
+    void Camera2(){
+      audioSource.PlayOneShot(sound2);
+    }
+
     void Update()
     {
         // 経過時間をカウント
